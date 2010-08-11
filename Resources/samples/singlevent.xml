@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<data>
+    <content>
+        <title>Tower Grove Sunday 9:00 AM Service</title>
+        <date>Sun, Jun 27 2010 9:00 am to 10:15 am</date>
+        <signup>https://journeyon.onthecity.org/login</signup>
+        <location>
+            <name>The Journey</name>
+            <line>all campuses</line>
+            <latitude>38.606659</latitude>
+            <longitude>-90.269423</longitude>
+        </location>
+        <sharing>
+            <twitter>
+                <url>http://bit.ly/d2EeQo</url>
+                <post>Tower Grove Sunday 9:00 AM Service. Wanna go? </post>
+            </twitter>
+            <facebook>
+                <post>Tower Grove Sunday 9:00 AM Service. Wanna go?  http://bit.ly/d2EeQo</post>
+            </facebook>
+            <email>
+                <subject>Tower Grove Sunday 9:00 AM Service</subject>
+                <body>Do you want to come with me to this event?  http://bit.ly/d2EeQo</body>
+            </email>
+        </sharing>
+        <description><p>Join us for our Tower Grove Campus&#8217;s 9:00 Sunday morning service!</p></description>
+        <emailaddress>info@journeyon.net</emailaddress>
+        <tel>(314) 863-8448</tel>
+    </content>
+</data>    

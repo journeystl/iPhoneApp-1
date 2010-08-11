@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<data>
+    <header>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>What's Killing Me
+        </title>
+        
+        <banner>
+            <image>http://journeyon.net/sites/default/files/imagecache/churchapp_banner/collection-banners/MC_WKM.jpg</image>
+        </banner>
+    </header>
+    <table>
+        <row>
+            <name>What&amp;#039;s Killing Me - Trailer</name>
+            <alternative></alternative>
+            <handler>detail</handler>
+            <date>Thu, 25 Mar 2010 17:46:47 GMT</date>
+            <link>http://journeyon.net/media/api/churchapp/sermon/7402/sermon.xml</link>
+        </row>
+        <row>
+            <name>What&amp;#039;s Killing Me Bumper Video</name>
+            <alternative></alternative>
+            <handler>detail</handler>
+            <date>Wed, 07 Apr 2010 11:38:52 GMT</date>
+            <link>http://journeyon.net/media/api/churchapp/sermon/7464/sermon.xml</link>
+        </row>
+        <row>
+            <name>Worry</name>
+            <alternative></alternative>
+            <handler>detail</handler>
+            <date>Sun, 11 Apr 2010 13:20:47 GMT</date>
+            <link>http://journeyon.net/media/api/churchapp/sermon/7429/sermon.xml</link>
+        </row>
+        <row>
+            <name>Fear</name>
+            <alternative>1 John 4:16-19</alternative>
+            <handler>detail</handler>
+            <date>Mon, 19 Apr 2010 8:16:53 GMT</date>
+            <link>http://journeyon.net/media/api/churchapp/sermon/7472/sermon.xml</link>
+        </row>
+        <row>
+            <name>Anger</name>
+            <alternative>Ephesians 4:26-32 </alternative>
+            <handler>detail</handler>
+            <date>Sun, 25 Apr 2010 15:04:30 GMT</date>
+            <link>http://journeyon.net/media/api/churchapp/sermon/7482/sermon.xml</link>
+        </row>
+        <row>
+            <name>Envy</name>
+            <alternative>Proverbs 23:17-18 </alternative>
+            <handler>detail</handler>
+            <date>Sun, 02 May 2010 13:23:03 GMT</date>
+            <link>http://journeyon.net/media/api/churchapp/sermon/7508/sermon.xml</link>
+        </row>
+    </table>
+</data>

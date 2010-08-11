@@ -1,0 +1,433 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gCal='http://schemas.google.com/gCal/2005'>
+    <id>http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic</id><updated>2010-05-18T13:34:05.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>infohr@journeyon.net</title><subtitle type='text'>infohr@journeyon.net</subtitle><link rel='alternate' type='text/html' href='http://www.google.com/calendar/embed?src=infohr@journeyon.net'/>
+    <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic'/>
+    <link rel='http://schemas.google.com/g/2005#batch' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/batch'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic?max-results=20&amp;singleevents=true&amp;futureevents=true&amp;sortorder=a&amp;ctz=America%2FChicago&amp;orderby=starttime'/>
+    <link rel='next' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic?start-index=21&amp;max-results=20&amp;singleevents=true&amp;futureevents=true&amp;sortorder=a&amp;ctz=America%2FChicago&amp;orderby=starttime'/>
+    <author>
+        <name>Journey - Hanley Road</name><email>infohr@journeyon.net</email>
+    </author>
+    <generator version='1.0' uri='http://www.google.com/calendar'>Google Calendar</generator><openSearch:totalResults>2829</openSearch:totalResults><openSearch:startIndex>1</openSearch:startIndex><openSearch:itemsPerPage>20</openSearch:itemsPerPage><gCal:timezone value='America/Chicago'/>
+    <gCal:timesCleaned value='0'/>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/572c264f655fcc1914768d693d24f1ffe7082eb1</id><published>1969-12-31T18:00:00.000-06:00</published><updated>2010-04-28T05:29:41.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'/>
+        <summary type='html'>When: Tue May 18, 2010 7pm to 9pm&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: infohr@journeyon.net
+            
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Tue May 18, 2010 7pm to 9pm 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: infohr@journeyon.net
+            
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=NTcyYzI2NGY2NTVmY2MxOTE0NzY4ZDY5M2QyNGYxZmZlNzA4MmViMSBpbmZvaHJAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/572c264f655fcc1914768d693d24f1ffe7082eb1'/>
+        <author>
+            <name>infohr@journeyon.net</name><email>infohr@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/bada2ec9d4d4aa6f9af7f4f3322bf179dd1280ea</id><published>1969-12-31T18:00:00.000-06:00</published><updated>2010-04-28T05:29:40.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'/>
+        <summary type='html'>When: Wed May 19, 2010 7pm to 9pm&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: infohr@journeyon.net
+            
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Wed May 19, 2010 7pm to 9pm 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: infohr@journeyon.net
+            
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=YmFkYTJlYzlkNGQ0YWE2ZjlhZjdmNGYzMzIyYmYxNzlkZDEyODBlYSBpbmZvaHJAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/bada2ec9d4d4aa6f9af7f4f3322bf179dd1280ea'/>
+        <author>
+            <name>infohr@journeyon.net</name><email>infohr@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/d0k0lok8s7419e92ovmodpocc0</id><published>2010-05-05T13:46:12.000-05:00</published><updated>2010-05-05T13:46:12.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>Theology at the Bottleworks</title><summary type='html'>When: Wed May 19, 2010 7pm to 10pm&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - Hanley Road
+            &lt;br&gt;Where: at Schlafly Bottleworks
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Wed May 19, 2010 7pm to 10pm 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - Hanley Road
+            &lt;br /&gt;Where: at Schlafly Bottleworks
+            &lt;br /&gt;Event Status: confirmed
+            &lt;br /&gt;Event Description: Starting good conversation on issues that matter between people inside AND outside of Christianity for 6 years now! Whether you lean left, right or center, join us to discuss &amp;quot;Living in the DisUnited States.”  Why is there such a liberal/conservative divide in our country? How wide is it, why and how does it affect you, and America as a whole? 
+            
+            www.midrashstl.com 
+            View your event at http://www.google.com/calendar/hosted/journeyon.net/event?action=VIEW&amp;amp;eid=cmxva2l1ZWgwNm4yajlzb2syYzdlZDVsbW8gaW5mb2hyQGpvdX
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=ZDBrMGxvazhzNzQxOWU5Mm92bW9kcG9jYzAgaW5mb2hyQGpvdXJuZXlvbi5uZXQ' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/d0k0lok8s7419e92ovmodpocc0'/>
+        <author>
+            <name>Journey - Hanley Road</name><email>infohr@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/rlokiueh06n2j9sok2c7ed5lmo</id><published>2010-05-05T13:11:28.000-05:00</published><updated>2010-05-16T01:46:34.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>Theology at the Bottleworks</title><summary type='html'>When: Wed May 19, 2010 7pm to 10pm&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - Hanley Road
+            &lt;br&gt;Where: at Schlafly Bottleworks
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Wed May 19, 2010 7pm to 10pm 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - Hanley Road
+            &lt;br /&gt;Where: at Schlafly Bottleworks
+            &lt;br /&gt;Event Status: confirmed
+            &lt;br /&gt;Event Description: Starting good conversation on issues that matter between people inside AND outside of Christianity for 6 years now! Whether you lean left, right or center, join us to discuss &amp;quot;Living in the DisUnited States.”  Why is there such a liberal/conservative divide in our country? How wide is it, why and how does it affect you, and America as a whole? 
+            
+            www.midrashstl.com
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=cmxva2l1ZWgwNm4yajlzb2syYzdlZDVsbW8gaW5mb2hyQGpvdXJuZXlvbi5uZXQ' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/rlokiueh06n2j9sok2c7ed5lmo'/>
+        <author>
+            <name>Journey - Tower Grove</name><email>infotg@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/9271189c8bb4cec20fe2f5c9de0aa7a4b466a5a3</id><published>1969-12-31T18:00:00.000-06:00</published><updated>2010-04-28T05:29:39.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'/>
+        <summary type='html'>When: Thu May 20, 2010 7pm to 8pm&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: infohr@journeyon.net
+            
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Thu May 20, 2010 7pm to 8pm 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: infohr@journeyon.net
+            
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=OTI3MTE4OWM4YmI0Y2VjMjBmZTJmNWM5ZGUwYWE3YTRiNDY2YTVhMyBpbmZvaHJAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/9271189c8bb4cec20fe2f5c9de0aa7a4b466a5a3'/>
+        <author>
+            <name>infohr@journeyon.net</name><email>infohr@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/m973evt2f4bf5qkkq0uittibr0</id><published>2009-10-07T10:20:32.000-05:00</published><updated>2010-05-18T08:33:45.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>Watkins Wedding Rehearsal</title><summary type='html'>When: Fri May 21, 2010 5:30pm to Fri May 21, 2010 8pm&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - Hanley Road
+            &lt;br&gt;Where: HR - Main Sanctuary, HR - The Lounge
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Fri May 21, 2010 5:30pm to Fri May 21, 2010 8pm 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - Hanley Road
+            &lt;br /&gt;Where: HR - Main Sanctuary, HR - The Lounge
+            &lt;br /&gt;Event Status: confirmed
+            &lt;br /&gt;Event Description: Rehearsal dinner in small dining room
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=bTk3M2V2dDJmNGJmNXFra3EwdWl0dGlicjAgaW5mb2hyQGpvdXJuZXlvbi5uZXQ' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/m973evt2f4bf5qkkq0uittibr0'/>
+        <author>
+            <name>Journey - Hanley Road</name><email>infohr@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/9f0b9a6377db9dda62a42e1a0f9a7d51266eaad7</id><published>1969-12-31T18:00:00.000-06:00</published><updated>2010-05-18T08:34:05.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'/>
+        <summary type='html'>When: Sat May 22, 2010 11am to 1pm&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - Hanley Road
+            
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sat May 22, 2010 11am to 1pm 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - Hanley Road
+            
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=OWYwYjlhNjM3N2RiOWRkYTYyYTQyZTFhMGY5YTdkNTEyNjZlYWFkNyBpbmZvaHJAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/9f0b9a6377db9dda62a42e1a0f9a7d51266eaad7'/>
+        <author>
+            <name>Journey - Hanley Road</name><email>infohr@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/nb7f45jsu9dqoe90cafe12qgec_20100523T161500Z</id><published>0001-12-30T18:10:00.000-05:50</published><updated>2010-04-28T05:29:40.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>The Journey - Hanley Road Service</title><summary type='html'>When: Sun May 23, 2010 11:15am to 12:45pm&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - Hanley Road
+            &lt;br&gt;Where: HR - Main Sanctuary
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sun May 23, 2010 11:15am to 12:45pm 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - Hanley Road
+            &lt;br /&gt;Where: HR - Main Sanctuary
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=bmI3ZjQ1anN1OWRxb2U5MGNhZmUxMnFnZWNfMjAxMDA1MjNUMTYxNTAwWiBpbmZvaHJAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/nb7f45jsu9dqoe90cafe12qgec_20100523T161500Z'/>
+        <author>
+            <name>Journey - Hanley Road</name><email>infohr@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/ba89d48a09d4e0cf9293eb242944e65c0c4914de</id><published>1969-12-31T18:00:00.000-06:00</published><updated>2010-04-28T05:29:41.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'/>
+        <summary type='html'>When: Sun May 23, 2010 4pm to 5:30pm&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - Hanley Road
+            
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sun May 23, 2010 4pm to 5:30pm 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - Hanley Road
+            
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=YmE4OWQ0OGEwOWQ0ZTBjZjkyOTNlYjI0Mjk0NGU2NWMwYzQ5MTRkZSBpbmZvaHJAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/ba89d48a09d4e0cf9293eb242944e65c0c4914de'/>
+        <author>
+            <name>Journey - Hanley Road</name><email>infohr@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/7km1c6c88dmcrua69vbrg9skcc_20100523T223000Z</id><published>0001-12-30T18:10:00.000-05:50</published><updated>2010-04-28T05:29:40.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>The Journey - Hanley Road Service</title><summary type='html'>When: Sun May 23, 2010 5:30pm to Sun May 23, 2010 7:30pm&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - Hanley Road
+            &lt;br&gt;Where: HR - Main Sanctuary
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sun May 23, 2010 5:30pm to Sun May 23, 2010 7:30pm 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - Hanley Road
+            &lt;br /&gt;Where: HR - Main Sanctuary
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=N2ttMWM2Yzg4ZG1jcnVhNjl2YnJnOXNrY2NfMjAxMDA1MjNUMjIzMDAwWiBpbmZvaHJAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/7km1c6c88dmcrua69vbrg9skcc_20100523T223000Z'/>
+        <author>
+            <name>Journey - Hanley Road</name><email>infohr@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/9e91a561c1b3e8a0f70125a7222dc85c03eb9d04</id><published>1969-12-31T18:00:00.000-06:00</published><updated>2010-04-28T05:29:41.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'/>
+        <summary type='html'>When: Sun May 23, 2010 6:45pm to Sun May 23, 2010 8:15pm&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - Hanley Road
+            
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sun May 23, 2010 6:45pm to Sun May 23, 2010 8:15pm 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - Hanley Road
+            
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=OWU5MWE1NjFjMWIzZThhMGY3MDEyNWE3MjIyZGM4NWMwM2ViOWQwNCBpbmZvaHJAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/9e91a561c1b3e8a0f70125a7222dc85c03eb9d04'/>
+        <author>
+            <name>Journey - Hanley Road</name><email>infohr@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/4ce16mrk8fc389qlb5au12pks8_20100524T003000Z</id><published>2009-09-22T21:16:10.000-05:00</published><updated>2010-04-28T05:29:41.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>Coffee in the Vox</title><summary type='html'>When: Sun May 23, 2010 7:30pm to 8:30pm&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - Hanley Road
+            &lt;br&gt;Where: HR - Vox Lounge
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sun May 23, 2010 7:30pm to 8:30pm 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - Hanley Road
+            &lt;br /&gt;Where: HR - Vox Lounge
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=NGNlMTZtcms4ZmMzODlxbGI1YXUxMnBrczhfMjAxMDA1MjRUMDAzMDAwWiBpbmZvaHJAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/4ce16mrk8fc389qlb5au12pks8_20100524T003000Z'/>
+        <author>
+            <name>Journey - Hanley Road</name><email>infohr@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/94a86f54581216fbdb215fb08509b2ac358a5b3c</id><published>1969-12-31T18:00:00.000-06:00</published><updated>2010-04-28T05:29:41.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'/>
+        <summary type='html'>When: Tue May 25, 2010 7pm to 9pm&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: infohr@journeyon.net
+            
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Tue May 25, 2010 7pm to 9pm 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: infohr@journeyon.net
+            
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=OTRhODZmNTQ1ODEyMTZmYmRiMjE1ZmIwODUwOWIyYWMzNThhNWIzYyBpbmZvaHJAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/94a86f54581216fbdb215fb08509b2ac358a5b3c'/>
+        <author>
+            <name>infohr@journeyon.net</name><email>infohr@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/a25e3185de638ba5b2c70259f123682686894461</id><published>1969-12-31T18:00:00.000-06:00</published><updated>2010-04-28T05:29:40.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'/>
+        <summary type='html'>When: Wed May 26, 2010 7pm to 9pm&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: infohr@journeyon.net
+            
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Wed May 26, 2010 7pm to 9pm 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: infohr@journeyon.net
+            
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=YTI1ZTMxODVkZTYzOGJhNWIyYzcwMjU5ZjEyMzY4MjY4Njg5NDQ2MSBpbmZvaHJAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/a25e3185de638ba5b2c70259f123682686894461'/>
+        <author>
+            <name>infohr@journeyon.net</name><email>infohr@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/b76bf5ba0eba5464fbbe8ed560a2c37bb3847007</id><published>1969-12-31T18:00:00.000-06:00</published><updated>2010-04-28T05:29:39.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'/>
+        <summary type='html'>When: Thu May 27, 2010 7pm to 8pm&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: infohr@journeyon.net
+            
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Thu May 27, 2010 7pm to 8pm 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: infohr@journeyon.net
+            
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=Yjc2YmY1YmEwZWJhNTQ2NGZiYmU4ZWQ1NjBhMmMzN2JiMzg0NzAwNyBpbmZvaHJAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/b76bf5ba0eba5464fbbe8ed560a2c37bb3847007'/>
+        <author>
+            <name>infohr@journeyon.net</name><email>infohr@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/b47ae4042d73b098905c774155eb2ffac6acfba9</id><published>1969-12-31T18:00:00.000-06:00</published><updated>2010-04-28T05:29:38.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'/>
+        <summary type='html'>When: Fri May 28, 2010 5:30pm to 6:30pm&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: infohr@journeyon.net
+            
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Fri May 28, 2010 5:30pm to 6:30pm 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: infohr@journeyon.net
+            
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=YjQ3YWU0MDQyZDczYjA5ODkwNWM3NzQxNTVlYjJmZmFjNmFjZmJhOSBpbmZvaHJAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/b47ae4042d73b098905c774155eb2ffac6acfba9'/>
+        <author>
+            <name>infohr@journeyon.net</name><email>infohr@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/edogiutjdor2uguooign5q7tkk</id><published>2009-12-14T10:59:04.000-06:00</published><updated>2010-04-28T05:29:38.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>Votruba Wedding</title><summary type='html'>When: Sat May 29, 2010 11am to 1pm&amp;nbsp;
+            CDT&lt;br&gt;
+            
+            
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sat May 29, 2010 11am to 1pm 
+            CDT&lt;br /&gt;
+            
+            
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=ZWRvZ2l1dGpkb3IydWd1b29pZ241cTd0a2sgaW5mb2hyQGpvdXJuZXlvbi5uZXQ' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/edogiutjdor2uguooign5q7tkk'/>
+        <author>
+            <name>Journey - Hanley Road</name><email>infohr@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/nb7f45jsu9dqoe90cafe12qgec_20100530T161500Z</id><published>0001-12-30T18:10:00.000-05:50</published><updated>2010-04-28T05:29:40.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>The Journey - Hanley Road Service</title><summary type='html'>When: Sun May 30, 2010 11:15am to 12:45pm&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - Hanley Road
+            &lt;br&gt;Where: HR - Main Sanctuary
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sun May 30, 2010 11:15am to 12:45pm 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - Hanley Road
+            &lt;br /&gt;Where: HR - Main Sanctuary
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=bmI3ZjQ1anN1OWRxb2U5MGNhZmUxMnFnZWNfMjAxMDA1MzBUMTYxNTAwWiBpbmZvaHJAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/nb7f45jsu9dqoe90cafe12qgec_20100530T161500Z'/>
+        <author>
+            <name>Journey - Hanley Road</name><email>infohr@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/817cf3cfcf52d55fb02de633407e1d25f5507226</id><published>1969-12-31T18:00:00.000-06:00</published><updated>2010-04-28T05:29:41.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'/>
+        <summary type='html'>When: Sun May 30, 2010 4pm to 5:30pm&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - Hanley Road
+            
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sun May 30, 2010 4pm to 5:30pm 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - Hanley Road
+            
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=ODE3Y2YzY2ZjZjUyZDU1ZmIwMmRlNjMzNDA3ZTFkMjVmNTUwNzIyNiBpbmZvaHJAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/817cf3cfcf52d55fb02de633407e1d25f5507226'/>
+        <author>
+            <name>Journey - Hanley Road</name><email>infohr@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/7km1c6c88dmcrua69vbrg9skcc_20100530T223000Z</id><published>0001-12-30T18:10:00.000-05:50</published><updated>2010-04-28T05:29:40.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>The Journey - Hanley Road Service</title><summary type='html'>When: Sun May 30, 2010 5:30pm to Sun May 30, 2010 7:30pm&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - Hanley Road
+            &lt;br&gt;Where: HR - Main Sanctuary
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sun May 30, 2010 5:30pm to Sun May 30, 2010 7:30pm 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - Hanley Road
+            &lt;br /&gt;Where: HR - Main Sanctuary
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=N2ttMWM2Yzg4ZG1jcnVhNjl2YnJnOXNrY2NfMjAxMDA1MzBUMjIzMDAwWiBpbmZvaHJAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infohr%40journeyon.net/public/basic/7km1c6c88dmcrua69vbrg9skcc_20100530T223000Z'/>
+        <author>
+            <name>Journey - Hanley Road</name><email>infohr@journeyon.net</email>
+        </author>
+    </entry>
+</feed>

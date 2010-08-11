@@ -1,0 +1,396 @@
+<?xml version="1.0" ?>
+<data>
+    <header>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Sermons
+        </title>
+        
+    </header>
+    <table>
+        <row>
+            <icon>http://journeyon.net/sites/default/files/imagecache/churchapp_icon/files/poster-images/MC_WKM.jpg</icon>
+            <name>What&amp;#039;s Killing Me</name>
+            <alternative>March 2010</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/7401/series.xml</link>
+        </row>
+        <row>
+            <icon>http://journeyon.net/sites/default/files/imagecache/churchapp_icon/files/poster-images/MC_ManOfSorrows.jpg</icon>
+            <name>Holy Week (2010)</name>
+            <alternative>March 2010</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/7409/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Acts 29 Quarterly (03/02/10)</name>
+            <alternative>March 2010</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/7371/series.xml</link>
+        </row>
+        <row>
+            <icon>http://journeyon.net/sites/default/files/imagecache/churchapp_icon/files/poster-images/MC_Foundations.jpg</icon>
+            <name>Foundations</name>
+            <alternative>February 2010</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/7024/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Special Events</name>
+            <alternative>January 2010</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/6910/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Training Camp</name>
+            <alternative>January 2010</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/6898/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Christmas Eve 2009</name>
+            <alternative>January 2010</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/6851/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Engage</name>
+            <alternative>January 2010</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/6849/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Mercy Quarterly (9/14/09)</name>
+            <alternative>December 2009</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/6726/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Acts 29 Quarterly (10/20/09)</name>
+            <alternative>October 2009</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/6581/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>1 John Stories</name>
+            <alternative>October 2009</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/6207/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Solid</name>
+            <alternative>September 2009</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/4460/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Leadership Bootcamp (08/29/09)</name>
+            <alternative>August 2009</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/4118/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Acts 29 Quarterly (08/18/09)</name>
+            <alternative>August 2009</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/4114/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Consumed</name>
+            <alternative>August 2009</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/4111/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Acts 29 Quarterly (04/28/09)</name>
+            <alternative>April 2009</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3972/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>God&amp;#039;s Economy</name>
+            <alternative>February 2009</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3559/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Rhythms</name>
+            <alternative>February 2009</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3571/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Embody</name>
+            <alternative>December 2008</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3554/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Doubting Your Doubts</name>
+            <alternative>November 2008</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3552/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Redeeming Masculinity 2008</name>
+            <alternative>November 2008</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3569/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>LEAD Conference 2008</name>
+            <alternative>October 2008</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/7012/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>The Doubting Sessions</name>
+            <alternative>October 2008</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3576/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>The Journey Vision Series - 2008</name>
+            <alternative>September 2008</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3578/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>A City On A Hill</name>
+            <alternative>July 2008</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3549/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Milestones Forum</name>
+            <alternative>May 2008</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3564/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Easter 2008</name>
+            <alternative>March 2008</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3553/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Women&amp;#039;s Retreat: February 2008</name>
+            <alternative>February 2008</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3546/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>The Search: Finding Jesus In The Old Testament</name>
+            <alternative>February 2008</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3582/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Ephesians</name>
+            <alternative>January 2008</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3556/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>The Joy Church: Philippians </name>
+            <alternative>January 2008</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3579/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Emerging Church</name>
+            <alternative>October 2007</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3555/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Transformation</name>
+            <alternative>September 2007</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3584/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Acts 29 Quarterly (08/14/07)</name>
+            <alternative>August 2007</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3550/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Women&amp;#039;s Forum: True Biblical Identity</name>
+            <alternative>August 2007</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3586/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Following Jesus in a Jacked Up Church: 1 Corinthians</name>
+            <alternative>February 2007</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3557/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Sex Forum 2007</name>
+            <alternative>February 2007</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3572/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Proverbs</name>
+            <alternative>February 2007</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3568/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Mission Possible</name>
+            <alternative>September 2006</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3565/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Stop The Madness</name>
+            <alternative>September 2006</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3574/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>A Church For The City</name>
+            <alternative>August 2006</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3548/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Colossians</name>
+            <alternative>January 2006</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3551/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Money</name>
+            <alternative>January 2006</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3566/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Gospel &amp;amp; Attitude</name>
+            <alternative>December 2005</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3560/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Song Of Songs</name>
+            <alternative>November 2005</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3573/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Why We Exist</name>
+            <alternative>September 2005</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3585/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>The Offensive Jesus</name>
+            <alternative>May 2005</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3580/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>James</name>
+            <alternative>January 2005</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3561/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>The Present Future</name>
+            <alternative>January 2005</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3581/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>The Freedom Of Law: The Ten Commandments</name>
+            <alternative>December 2004</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3577/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>The Stories of Jesus</name>
+            <alternative>September 2004</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3583/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>The &amp;quot;M&amp;quot; Word</name>
+            <alternative>January 2004</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3575/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Jonah &amp;amp; David</name>
+            <alternative>September 2003</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3562/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>1 John</name>
+            <alternative>April 2003</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3547/series.xml</link>
+        </row>
+        <row>
+            <icon></icon>
+            <name>Galatians</name>
+            <alternative>March 2003</alternative>
+            <handler>plain header</handler>
+            <link>http://journeyon.net/media/api/churchapp/3558/series.xml</link>
+        </row>
+    </table>
+</data>

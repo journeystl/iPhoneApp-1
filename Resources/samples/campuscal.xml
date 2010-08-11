@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<data>
+    <header>
+        <title>Events</title>
+        <subtabs>
+        </subtabs>
+        <banner>
+            <image>http://thechurchapp.org/thejourney/events/events_banner.png</image>
+        </banner>
+    </header>
+    <table>
+	<row>
+		<name>Tower Grove Saturday Night Service - 5:00 PM</name>
+		<alternative>5:00 pm - 6:15 pm</alternative>
+		<handler>eventDetail</handler>
+		<date>Sat, 12 Jun 2010 17:12:00 CDT</date>
+		<link>http://cogent14.com/~ayl/test/journey//singleevent.php?eventid=c6857a66a9ec0133609e18d24c2d321009e70148</link>
+	</row>
+	<row>
+		<name>Tower Grove Sunday 9:00 AM Service</name>
+		<alternative>9:00 am - 10:15 am</alternative>
+		<handler>eventDetail</handler>
+		<date>Sun, 13 Jun 2010 09:13:00 CDT</date>
+		<link>http://cogent14.com/~ayl/test/journey//singleevent.php?eventid=51200af089e64a0cdd13701e0e938f2ecd668e6c</link>
+	</row>
+	<row>
+		<name>Tower Grove Sunday 11:15 AM Service</name>
+		<alternative>11:15 am - 12:30 pm</alternative>
+		<handler>eventDetail</handler>
+		<date>Sun, 13 Jun 2010 11:13:00 CDT</date>
+		<link>http://cogent14.com/~ayl/test/journey//singleevent.php?eventid=dd7ab50d36b2ace8f95c9e5a2912d58c7635afbe</link>
+	</row>
+	<row>
+		<name>Tower Grove Saturday Night Service - 5:00 PM</name>
+		<alternative>5:00 pm - 6:15 pm</alternative>
+		<handler>eventDetail</handler>
+		<date>Sat, 19 Jun 2010 17:19:00 CDT</date>
+		<link>http://cogent14.com/~ayl/test/journey//singleevent.php?eventid=275126fcb60391136668e9fc39ee5067ba780674</link>
+	</row>
+	<row>
+		<name>Tower Grove Sunday 9:00 AM Service</name>
+		<alternative>9:00 am - 10:15 am</alternative>
+		<handler>eventDetail</handler>
+		<date>Sun, 20 Jun 2010 09:20:00 CDT</date>
+		<link>http://cogent14.com/~ayl/test/journey//singleevent.php?eventid=e5531dfbbff0f8e5551991cde603d83688a2a3ff</link>
+	</row>
+	<row>
+		<name>Tower Grove Sunday 11:15 AM Service</name>
+		<alternative>11:15 am - 12:30 pm</alternative>
+		<handler>eventDetail</handler>
+		<date>Sun, 20 Jun 2010 11:20:00 CDT</date>
+		<link>http://cogent14.com/~ayl/test/journey//singleevent.php?eventid=43e3aa28962cc04f2cb27dea467e9373f8d4be34</link>
+	</row>
+	<row>
+		<name>Tower Grove Saturday Night Service - 5:00 PM</name>
+		<alternative>5:00 pm - 6:15 pm</alternative>
+		<handler>eventDetail</handler>
+		<date>Sat, 26 Jun 2010 17:26:00 CDT</date>
+		<link>http://cogent14.com/~ayl/test/journey//singleevent.php?eventid=6f2b2dae26d4aecd1ccaf89b497ab7ec48a7b5cd</link>
+	</row>
+	<row>
+		<name>Tower Grove Sunday 9:00 AM Service</name>
+		<alternative>9:00 am - 10:15 am</alternative>
+		<handler>eventDetail</handler>
+		<date>Sun, 27 Jun 2010 09:27:00 CDT</date>
+		<link>http://cogent14.com/~ayl/test/journey//singleevent.php?eventid=cbd35176ea7209eefa648890bfe2086bb48e5dec</link>
+	</row>
+	<row>
+		<name>Tower Grove Sunday 11:15 AM Service</name>
+		<alternative>11:15 am - 12:30 pm</alternative>
+		<handler>eventDetail</handler>
+		<date>Sun, 27 Jun 2010 11:27:00 CDT</date>
+		<link>http://cogent14.com/~ayl/test/journey//singleevent.php?eventid=b00e77740e9c725beadaef0650ccfb53dc305146</link>
+	</row>
+	<row>
+		<name>Tower Grove Saturday Night Service - 5:00 PM</name>
+		<alternative>5:00 pm - 6:15 pm</alternative>
+		<handler>eventDetail</handler>
+		<date>Sat, 3 Jul 2010 17:3:00 CDT</date>
+		<link>http://cogent14.com/~ayl/test/journey//singleevent.php?eventid=8b2653ae89ec69fdd11ce73a1b1cd724c51b2d82</link>
+	</row>
+	<row>
+		<name>Tower Grove Sunday 9:00 AM Service</name>
+		<alternative>9:00 am - 10:15 am</alternative>
+		<handler>eventDetail</handler>
+		<date>Sun, 4 Jul 2010 09:4:00 CDT</date>
+		<link>http://cogent14.com/~ayl/test/journey//singleevent.php?eventid=ef6c57c508a1e425615be23bed8e7025bc97fdf1</link>
+	</row>
+	<row>
+		<name>Tower Grove Sunday 11:15 AM Service</name>
+		<alternative>11:15 am - 12:30 pm</alternative>
+		<handler>eventDetail</handler>
+		<date>Sun, 4 Jul 2010 11:4:00 CDT</date>
+		<link>http://cogent14.com/~ayl/test/journey//singleevent.php?eventid=baa3973e5bbfd489b8d88d2dd547427b91db5847</link>
+	</row>
+	<row>
+		<name>Tower Grove Sunday 9:00 AM Service</name>
+		<alternative>9:00 am - 10:15 am</alternative>
+		<handler>eventDetail</handler>
+		<date>Sun, 11 Jul 2010 09:11:00 CDT</date>
+		<link>http://cogent14.com/~ayl/test/journey//singleevent.php?eventid=42b00a66da80fce212e4cd49dfa1c5f504f0ee7b</link>
+	</row>
+	<row>
+		<name>Tower Grove Sunday 11:15 AM Service</name>
+		<alternative>11:15 am - 12:30 pm</alternative>
+		<handler>eventDetail</handler>
+		<date>Sun, 11 Jul 2010 11:11:00 CDT</date>
+		<link>http://cogent14.com/~ayl/test/journey//singleevent.php?eventid=7b36c8a4ff1b5f9d4ded4ef89530825eca2d16d2</link>
+	</row>
+    </table>
+</data>    
+

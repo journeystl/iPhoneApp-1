@@ -1,0 +1,79 @@
+Hi Aaron,
+
+That is great news! Well done. Here are some notes, thoughts, and
+answers to your requests:
+
+Blog Feed. The blog feed is below. It's the generic feed from the
+front page. If you need something special, just let me know. (We are
+building something special for the A29 app because theirs stops
+printing our blog when it encounters HTML mark up!!!)
+
+http://journeyon.net/blog/feed/
+
+Calendar Feed(s). We are still working on where we want this to live.
+Right now all the campuses have a Google Calendar that is displaying
+on the website. However, we'd really like to transition to The City's
+feed at some point. I'll post both sets of links below so you can let
+me know if anything won't work. We need to solve this problem in
+general for the desktop and mobile so you'll be hearing more soon.
+
+G-Cal:
+HR: http://www.google.com/calendar/ical/infohr%40journeyon.net/public/basic.ics
+ME: http://www.google.com/calendar/ical/infome%40journeyon.net/public/basic.ics
+TG: http://www.google.com/calendar/ical/infotg%40journeyon.net/public/basic.ics
+WC: http://www.google.com/calendar/ical/infowc%40journeyon.net/public/basic.ics
+
+The City:
+http://journeyon.onthecity.org/plaza/events/ical_feed (single test event)
+
+
+Sermon Feed. Below is an RSS link that I created to drive the sermons
+on the A29 app. The link below interacts with two other feeds so we
+have three feeds total: All Series, Single Series, Single Sermon. I've
+also used image cache settings to build images for their app. If
+something like this would help you, let me know.
+
+http://journeyon.net/media/api/churchapp/all-series.xml
+
+
+Let me know if how we can help and I'll try to be very responsive
+throughout this process. Thanks for your leadership and work.
+
+siyo
+
+Hi Aaron,
+
+Re: Blog Feed - Right now I have it limited to 15 entries. We are
+still trying to get people to post more often. In short, if the
+technology works, we should be good once we get our staff blogging
+regularly.
+
+Re: Cal Feeds - Listing each campus is great. I tried the same thing
+for our A29 app, however, the "Church App's" (shell we are using) XML
+spec is proprietary. Since I have to create a layer of abstraction, it
+may as well do something intelligent. Long term, I'm looking at using
+a project called Managing News. It's an RSS aggregator built on Drupal
+core. I've also attached the conceptual view of this in a PDF.
+
+http://managingnews.com/
+
+Re: App Interface - We can help you style whatever. I can download the
+SDK and help with design stuff.
+
+Re: Website UI - We are aware of several places on the website that
+suck. Our current "web" priorities are as follows:
+
+1. Backend blogging workflow (get people blogging)
+2. A29 iPhone app
+3. Front page & ticker revamp
+4. Sermon series (Media Collection content type) landing pages
+
+The more specific feedback you can give us, the better and we can add
+it to the list.
+
+We're excited about all the moment. It's great to have you in the loop!
+
+siyo
+
+
+http://www.google.com/calendar/feeds/infotg%40journeyon.net/public/full-noattendees?futureevents=true&orderby=starttime&sortorder=a&max-results=20&ctz=America/Chicago

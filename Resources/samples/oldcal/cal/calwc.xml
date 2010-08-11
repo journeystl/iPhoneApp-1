@@ -1,0 +1,419 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gCal='http://schemas.google.com/gCal/2005'>
+    <id>http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic</id><updated>2010-05-16T06:46:35.000Z</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+    <title type='text'>infowc@journeyon.net</title><subtitle type='text'>infowc@journeyon.net</subtitle><link rel='alternate' type='text/html' href='http://www.google.com/calendar/embed?src=infowc@journeyon.net'/>
+    <link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic'/>
+    <link rel='http://schemas.google.com/g/2005#batch' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/batch'/>
+    <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic?max-results=20&amp;singleevents=true&amp;futureevents=true&amp;sortorder=a&amp;ctz=America%2FChicago&amp;orderby=starttime'/>
+    <link rel='next' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic?start-index=21&amp;max-results=20&amp;singleevents=true&amp;futureevents=true&amp;sortorder=a&amp;ctz=America%2FChicago&amp;orderby=starttime'/>
+    <author>
+        <name>Journey - West County</name><email>infowc@journeyon.net</email>
+    </author>
+    <generator version='1.0' uri='http://www.google.com/calendar'>Google Calendar</generator><openSearch:totalResults>718</openSearch:totalResults><openSearch:startIndex>1</openSearch:startIndex><openSearch:itemsPerPage>20</openSearch:itemsPerPage><gCal:timezone value='America/Chicago'/>
+    <gCal:timesCleaned value='0'/>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/ek0m1qmk8se8bmvhldaojn0iq0_20100519T233000Z</id><published>2010-03-25T09:29:30.000-05:00</published><updated>2010-03-31T04:07:38.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>Journey Youth Community Group</title><summary type='html'>When: Wed May 19, 2010 6:30pm to Wed May 19, 2010 8:30pm&amp;nbsp;
+            CDT&lt;br&gt;
+            
+            &lt;br&gt;Where: contact YouthWC@journeyon.net for more information
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Wed May 19, 2010 6:30pm to Wed May 19, 2010 8:30pm 
+            CDT&lt;br /&gt;
+            
+            &lt;br /&gt;Where: contact YouthWC@journeyon.net for more information
+            &lt;br /&gt;Event Status: confirmed
+            &lt;br /&gt;Event Description: Middle School (6th - 8th grades) Youth Community Group
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=ZWswbTFxbWs4c2U4Ym12aGxkYW9qbjBpcTBfMjAxMDA1MTlUMjMzMDAwWiBpbmZvd2NAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/ek0m1qmk8se8bmvhldaojn0iq0_20100519T233000Z'/>
+        <author>
+            <name>Journey - West County</name><email>infowc@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/rlokiueh06n2j9sok2c7ed5lmo</id><published>2010-05-05T13:11:28.000-05:00</published><updated>2010-05-16T01:46:35.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>Theology at the Bottleworks</title><summary type='html'>When: Wed May 19, 2010 7pm to 10pm&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - West County
+            &lt;br&gt;Where: at Schlafly Bottleworks
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Wed May 19, 2010 7pm to 10pm 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - West County
+            &lt;br /&gt;Where: at Schlafly Bottleworks
+            &lt;br /&gt;Event Status: confirmed
+            &lt;br /&gt;Event Description: Starting good conversation on issues that matter between people inside AND outside of Christianity for 6 years now! Whether you lean left, right or center, join us to discuss &amp;quot;Living in the DisUnited States.”  Why is there such a liberal/conservative divide in our country? How wide is it, why and how does it affect you, and America as a whole? 
+            
+            www.midrashstl.com
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=cmxva2l1ZWgwNm4yajlzb2syYzdlZDVsbW8gaW5mb3djQGpvdXJuZXlvbi5uZXQ' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/rlokiueh06n2j9sok2c7ed5lmo'/>
+        <author>
+            <name>Journey - Tower Grove</name><email>infotg@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/dbic9g0l7cko93ljieg256r2mg</id><published>2010-05-06T09:10:25.000-05:00</published><updated>2010-05-06T09:10:27.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>Worship Night </title><summary type='html'>When: Fri May 21, 2010 7pm to 9pm&amp;nbsp;
+            CDT&lt;br&gt;
+            
+            &lt;br&gt;Where: Tower Grove Campus
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Fri May 21, 2010 7pm to 9pm 
+            CDT&lt;br /&gt;
+            
+            &lt;br /&gt;Where: Tower Grove Campus
+            &lt;br /&gt;Event Status: confirmed
+            &lt;br /&gt;Event Description: Go to journeyon.net/west-county and click on the Worship Night slide for more information.  Limited childcare available.
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=ZGJpYzlnMGw3Y2tvOTNsamllZzI1NnIybWcgaW5mb3djQGpvdXJuZXlvbi5uZXQ' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/dbic9g0l7cko93ljieg256r2mg'/>
+        <author>
+            <name>Journey - West County</name><email>infowc@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100523T150000Z</id><published>0001-12-30T18:10:00.000-05:50</published><updated>2010-03-31T04:07:37.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>WC Worship Service</title><summary type='html'>When: Sun May 23, 2010 10am to 11:30am&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - West County
+            &lt;br&gt;Where: WC - MBU Auditorium
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sun May 23, 2010 10am to 11:30am 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - West County
+            &lt;br /&gt;Where: WC - MBU Auditorium
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=bWg3bDkwbGxvMWgzdDJydTN1aDF1YWpiazhfMjAxMDA1MjNUMTUwMDAwWiBpbmZvd2NAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100523T150000Z'/>
+        <author>
+            <name>Journey - West County</name><email>infowc@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100530T150000Z</id><published>0001-12-30T18:10:00.000-05:50</published><updated>2010-03-31T04:07:37.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>WC Worship Service</title><summary type='html'>When: Sun May 30, 2010 10am to 11:30am&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - West County
+            &lt;br&gt;Where: WC - MBU Auditorium
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sun May 30, 2010 10am to 11:30am 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - West County
+            &lt;br /&gt;Where: WC - MBU Auditorium
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=bWg3bDkwbGxvMWgzdDJydTN1aDF1YWpiazhfMjAxMDA1MzBUMTUwMDAwWiBpbmZvd2NAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100530T150000Z'/>
+        <author>
+            <name>Journey - West County</name><email>infowc@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100606T150000Z</id><published>0001-12-30T18:10:00.000-05:50</published><updated>2010-03-31T04:07:37.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>WC Worship Service</title><summary type='html'>When: Sun Jun 6, 2010 10am to 11:30am&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - West County
+            &lt;br&gt;Where: WC - MBU Auditorium
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sun Jun 6, 2010 10am to 11:30am 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - West County
+            &lt;br /&gt;Where: WC - MBU Auditorium
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=bWg3bDkwbGxvMWgzdDJydTN1aDF1YWpiazhfMjAxMDA2MDZUMTUwMDAwWiBpbmZvd2NAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100606T150000Z'/>
+        <author>
+            <name>Journey - West County</name><email>infowc@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100613T150000Z</id><published>0001-12-30T18:10:00.000-05:50</published><updated>2010-03-31T04:07:37.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>WC Worship Service</title><summary type='html'>When: Sun Jun 13, 2010 10am to 11:30am&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - West County
+            &lt;br&gt;Where: WC - MBU Auditorium
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sun Jun 13, 2010 10am to 11:30am 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - West County
+            &lt;br /&gt;Where: WC - MBU Auditorium
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=bWg3bDkwbGxvMWgzdDJydTN1aDF1YWpiazhfMjAxMDA2MTNUMTUwMDAwWiBpbmZvd2NAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100613T150000Z'/>
+        <author>
+            <name>Journey - West County</name><email>infowc@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100620T150000Z</id><published>0001-12-30T18:10:00.000-05:50</published><updated>2010-03-31T04:07:37.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>WC Worship Service</title><summary type='html'>When: Sun Jun 20, 2010 10am to 11:30am&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - West County
+            &lt;br&gt;Where: WC - MBU Auditorium
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sun Jun 20, 2010 10am to 11:30am 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - West County
+            &lt;br /&gt;Where: WC - MBU Auditorium
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=bWg3bDkwbGxvMWgzdDJydTN1aDF1YWpiazhfMjAxMDA2MjBUMTUwMDAwWiBpbmZvd2NAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100620T150000Z'/>
+        <author>
+            <name>Journey - West County</name><email>infowc@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100627T150000Z</id><published>0001-12-30T18:10:00.000-05:50</published><updated>2010-03-31T04:07:37.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>WC Worship Service</title><summary type='html'>When: Sun Jun 27, 2010 10am to 11:30am&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - West County
+            &lt;br&gt;Where: WC - MBU Auditorium
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sun Jun 27, 2010 10am to 11:30am 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - West County
+            &lt;br /&gt;Where: WC - MBU Auditorium
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=bWg3bDkwbGxvMWgzdDJydTN1aDF1YWpiazhfMjAxMDA2MjdUMTUwMDAwWiBpbmZvd2NAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100627T150000Z'/>
+        <author>
+            <name>Journey - West County</name><email>infowc@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100704T150000Z</id><published>0001-12-30T18:10:00.000-05:50</published><updated>2010-03-31T04:07:37.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>WC Worship Service</title><summary type='html'>When: Sun Jul 4, 2010 10am to 11:30am&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - West County
+            &lt;br&gt;Where: WC - MBU Auditorium
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sun Jul 4, 2010 10am to 11:30am 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - West County
+            &lt;br /&gt;Where: WC - MBU Auditorium
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=bWg3bDkwbGxvMWgzdDJydTN1aDF1YWpiazhfMjAxMDA3MDRUMTUwMDAwWiBpbmZvd2NAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100704T150000Z'/>
+        <author>
+            <name>Journey - West County</name><email>infowc@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100711T150000Z</id><published>0001-12-30T18:10:00.000-05:50</published><updated>2010-03-31T04:07:37.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>WC Worship Service</title><summary type='html'>When: Sun Jul 11, 2010 10am to 11:30am&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - West County
+            &lt;br&gt;Where: WC - MBU Auditorium
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sun Jul 11, 2010 10am to 11:30am 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - West County
+            &lt;br /&gt;Where: WC - MBU Auditorium
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=bWg3bDkwbGxvMWgzdDJydTN1aDF1YWpiazhfMjAxMDA3MTFUMTUwMDAwWiBpbmZvd2NAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100711T150000Z'/>
+        <author>
+            <name>Journey - West County</name><email>infowc@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100718T150000Z</id><published>0001-12-30T18:10:00.000-05:50</published><updated>2010-03-31T04:07:37.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>WC Worship Service</title><summary type='html'>When: Sun Jul 18, 2010 10am to 11:30am&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - West County
+            &lt;br&gt;Where: WC - MBU Auditorium
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sun Jul 18, 2010 10am to 11:30am 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - West County
+            &lt;br /&gt;Where: WC - MBU Auditorium
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=bWg3bDkwbGxvMWgzdDJydTN1aDF1YWpiazhfMjAxMDA3MThUMTUwMDAwWiBpbmZvd2NAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100718T150000Z'/>
+        <author>
+            <name>Journey - West County</name><email>infowc@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100725T150000Z</id><published>0001-12-30T18:10:00.000-05:50</published><updated>2010-03-31T04:07:37.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>WC Worship Service</title><summary type='html'>When: Sun Jul 25, 2010 10am to 11:30am&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - West County
+            &lt;br&gt;Where: WC - MBU Auditorium
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sun Jul 25, 2010 10am to 11:30am 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - West County
+            &lt;br /&gt;Where: WC - MBU Auditorium
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=bWg3bDkwbGxvMWgzdDJydTN1aDF1YWpiazhfMjAxMDA3MjVUMTUwMDAwWiBpbmZvd2NAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100725T150000Z'/>
+        <author>
+            <name>Journey - West County</name><email>infowc@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100801T150000Z</id><published>0001-12-30T18:10:00.000-05:50</published><updated>2010-03-31T04:07:37.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>WC Worship Service</title><summary type='html'>When: Sun Aug 1, 2010 10am to 11:30am&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - West County
+            &lt;br&gt;Where: WC - MBU Auditorium
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sun Aug 1, 2010 10am to 11:30am 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - West County
+            &lt;br /&gt;Where: WC - MBU Auditorium
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=bWg3bDkwbGxvMWgzdDJydTN1aDF1YWpiazhfMjAxMDA4MDFUMTUwMDAwWiBpbmZvd2NAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100801T150000Z'/>
+        <author>
+            <name>Journey - West County</name><email>infowc@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100808T150000Z</id><published>0001-12-30T18:10:00.000-05:50</published><updated>2010-03-31T04:07:37.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>WC Worship Service</title><summary type='html'>When: Sun Aug 8, 2010 10am to 11:30am&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - West County
+            &lt;br&gt;Where: WC - MBU Auditorium
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sun Aug 8, 2010 10am to 11:30am 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - West County
+            &lt;br /&gt;Where: WC - MBU Auditorium
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=bWg3bDkwbGxvMWgzdDJydTN1aDF1YWpiazhfMjAxMDA4MDhUMTUwMDAwWiBpbmZvd2NAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100808T150000Z'/>
+        <author>
+            <name>Journey - West County</name><email>infowc@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100815T150000Z</id><published>0001-12-30T18:10:00.000-05:50</published><updated>2010-03-31T04:07:37.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>WC Worship Service</title><summary type='html'>When: Sun Aug 15, 2010 10am to 11:30am&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - West County
+            &lt;br&gt;Where: WC - MBU Auditorium
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sun Aug 15, 2010 10am to 11:30am 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - West County
+            &lt;br /&gt;Where: WC - MBU Auditorium
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=bWg3bDkwbGxvMWgzdDJydTN1aDF1YWpiazhfMjAxMDA4MTVUMTUwMDAwWiBpbmZvd2NAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100815T150000Z'/>
+        <author>
+            <name>Journey - West County</name><email>infowc@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100822T150000Z</id><published>0001-12-30T18:10:00.000-05:50</published><updated>2010-03-31T04:07:37.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>WC Worship Service</title><summary type='html'>When: Sun Aug 22, 2010 10am to 11:30am&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - West County
+            &lt;br&gt;Where: WC - MBU Auditorium
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sun Aug 22, 2010 10am to 11:30am 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - West County
+            &lt;br /&gt;Where: WC - MBU Auditorium
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=bWg3bDkwbGxvMWgzdDJydTN1aDF1YWpiazhfMjAxMDA4MjJUMTUwMDAwWiBpbmZvd2NAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100822T150000Z'/>
+        <author>
+            <name>Journey - West County</name><email>infowc@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100829T150000Z</id><published>0001-12-30T18:10:00.000-05:50</published><updated>2010-03-31T04:07:37.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>WC Worship Service</title><summary type='html'>When: Sun Aug 29, 2010 10am to 11:30am&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - West County
+            &lt;br&gt;Where: WC - MBU Auditorium
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sun Aug 29, 2010 10am to 11:30am 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - West County
+            &lt;br /&gt;Where: WC - MBU Auditorium
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=bWg3bDkwbGxvMWgzdDJydTN1aDF1YWpiazhfMjAxMDA4MjlUMTUwMDAwWiBpbmZvd2NAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100829T150000Z'/>
+        <author>
+            <name>Journey - West County</name><email>infowc@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100905T150000Z</id><published>0001-12-30T18:10:00.000-05:50</published><updated>2010-03-31T04:07:37.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>WC Worship Service</title><summary type='html'>When: Sun Sep 5, 2010 10am to 11:30am&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - West County
+            &lt;br&gt;Where: WC - MBU Auditorium
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sun Sep 5, 2010 10am to 11:30am 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - West County
+            &lt;br /&gt;Where: WC - MBU Auditorium
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=bWg3bDkwbGxvMWgzdDJydTN1aDF1YWpiazhfMjAxMDA5MDVUMTUwMDAwWiBpbmZvd2NAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100905T150000Z'/>
+        <author>
+            <name>Journey - West County</name><email>infowc@journeyon.net</email>
+        </author>
+    </entry>
+    <entry>
+        <id>http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100912T150000Z</id><published>0001-12-30T18:10:00.000-05:50</published><updated>2010-03-31T04:07:37.000-05:00</updated><category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+        <title type='html'>WC Worship Service</title><summary type='html'>When: Sun Sep 12, 2010 10am to 11:30am&amp;nbsp;
+            CDT&lt;br&gt;
+            &lt;br&gt;Who: Journey - West County
+            &lt;br&gt;Where: WC - MBU Auditorium
+            &lt;br&gt;Event Status: confirmed
+        </summary>
+        <content type='html'>When: Sun Sep 12, 2010 10am to 11:30am 
+            CDT&lt;br /&gt;
+            &lt;br /&gt;Who: Journey - West County
+            &lt;br /&gt;Where: WC - MBU Auditorium
+            &lt;br /&gt;Event Status: confirmed
+        </content>
+        <link rel='alternate' type='text/html' href='http://www.google.com/calendar/event?eid=bWg3bDkwbGxvMWgzdDJydTN1aDF1YWpiazhfMjAxMDA5MTJUMTUwMDAwWiBpbmZvd2NAam91cm5leW9uLm5ldA' title='alternate'/>
+        <link rel='self' type='application/atom+xml' href='http://www.google.com/calendar/feeds/infowc%40journeyon.net/public/basic/mh7l90llo1h3t2ru3uh1uajbk8_20100912T150000Z'/>
+        <author>
+            <name>Journey - West County</name><email>infowc@journeyon.net</email>
+        </author>
+    </entry>
+</feed>
