@@ -1,8 +1,16 @@
-Aaron Lee
-
+INSTRUCTIONS:
+	1. Download and install the latest SDK from Titanium and Apple's iPhone SDK
+	2. Open Titanium and click on "Import Project"
+	3. Select option for regular mobile development (not iPad)
+	4. Click on Test and Package tab
+	5. Under Run Emulator click Launch, code base will compile and iphone simulator should launch. 
+	6. If it launches under iPad simulator click on device and select iPhone. Navigate to the virtual app and launch it manually.
 
 ----------------------------------
-Stuff our legal folk make us say:
+Copyright 2010 -  The Journey Fellowship Inc.
+
+----------------------------------
+Built with:
 
 Appcelerator, Appcelerator Titanium and associated marks and logos are 
 trademarks of Appcelerator, Inc. 

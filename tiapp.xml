@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ti:app xmlns:ti="http://ti.appcelerator.org">
-<id>com.cogent14.journey</id>
-<name>test-journey</name>
+<id>net.journeyon.iphone</id>
+<name>the-journey</name>
 <version>1.0</version>
-<publisher>not specified</publisher>
-<url>not specified</url>
-<description>not specified</description>
-<copyright>not specified</copyright>
+<publisher>The Journey Fellowship Inc.</publisher>
+<url>http://journeyon.net/</url>
+<description>IPhone application for Journey attenders</description>
+<copyright>2010</copyright>
 <icon>default_app_logo.png</icon>
     <persistent-wifi>false</persistent-wifi>
     <prerendered-icon>false</prerendered-icon>
     <statusbar-style>default</statusbar-style>
     <statusbar-hidden>false</statusbar-hidden>
-    <analytics>true</analytics>
+    <analytics>false</analytics>
 <guid>93e1808d-9eb2-4757-be86-1b2b4afcf157</guid>
 </ti:app>
