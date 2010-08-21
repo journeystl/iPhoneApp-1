@@ -74,7 +74,20 @@ xhr.onload = function() {
 		var pause = Titanium.UI.createButton({ systemButton:Titanium.UI.iPhone.SystemButton.PAUSE });
 		var stop = Titanium.UI.createButton({ systemButton:Titanium.UI.iPhone.SystemButton.STOP });
 		//var rewind = Titanium.UI.createButton({ systemButton:Titanium.UI.iPhone.SystemButton.REWIND });
-		var video = Titanium.UI.createButton({ title:'Video',style:Titanium.UI.iPhone.SystemButtonStyle.BORDERED });
+		if (videourl != null) {
+			var video = Titanium.UI.createButton({ title:'Video',style:Titanium.UI.iPhone.SystemButtonStyle.BORDERED });
+				video.addEventListener('click', function() {
+					Ti.API.info('[sermon.js] videourl is ' + videourl);
+
+					//Titanium.UI.createAlertDialog({title:'System Button', message:'ACTION'+videourl}).show();
+
+					var win = Ti.UI.currentWindow;
+					var webview = Titanium.UI.createWebView({url:videourl});
+					//var window = Titanium.UI.createWindow({title:title});
+					win.add(webview);
+
+				});
+		}
 		var state = 0; // true means display "Play" (actually in pause state) and vice versa.
 
 		// Add functionality to buttons
@@ -124,39 +137,12 @@ xhr.onload = function() {
 		    	streamer.stop();
 			}
 		});
-		
-		
-			
-		
-		video.addEventListener('click', function() {
-			Ti.API.info('[sermon.js] videourl is ' + videourl);
-			
-			Titanium.UI.createAlertDialog({title:'System Button', message:'ACTION'+videourl}).show();
 
-			var win = Ti.UI.currentWindow;
-			var webview = Titanium.UI.createWebView({url:videourl});
-			//var window = Titanium.UI.createWindow({title:title});
-			win.add(webview);
-			/*
-			var activeMovie = Titanium.Media.createVideoPlayer({
-			    contentURL: videourl,
-			    backgroundColor:'#111',
-			    movieControlMode:Titanium.Media.VIDEO_CONTROL_DEFAULT,
-			    scalingMode:Titanium.Media.VIDEO_SCALING_MODE_FILL
-			});
-
-			activeMovie.addEventListener('complete',function()
-			{
-			    //Titanium.UI.createAlertDialog({title:'Movie', message:'Completed!'}).show();
-			    win.close();
-			});
-
-			//activeMovie.play();
-			*/
-			
-		});
-
-		win.toolbar = [flexSpace,play,flexSpace,pause,flexSpace,stop,flexSpace,video,flexSpace];
+		if (videourl != null) {
+			win.toolbar = [flexSpace,play,flexSpace,pause,flexSpace,stop,flexSpace,video,flexSpace];
+		} else {
+			win.toolbar = [flexSpace,play,flexSpace,pause,flexSpace,stop,flexSpace];
+		}
 		// Add event listener for selection
 		/*
 		tableview.addEventListener('click',function(e) {

@@ -19,52 +19,55 @@ xhr.onload = function() {
 			var item = items.item(c);
 			var title = item.getElementsByTagName("title").item(0).text;
 			var description = item.getElementsByTagName("description").item(0).text;
+			var creator = item.getElementsByTagName("dc:creator").item(0).text;
 			var dateText = item.getElementsByTagName("pubDate").item(0).text;
 			var dateArray = dateText.split(" ");
 			dateText = "" + dateArray[2] + " " + dateArray[1] + " " + dateArray[3];
+			var monthText = "" + dateArray[2];
+			var dayText = "" + dateArray[1];
 			Ti.API.info('[blog.js]   Processing #' + c + " - " + title);
 
 			// Set up display of row
-			var row = Ti.UI.createTableViewRow({height:100});
+			var row = Ti.UI.createTableViewRow({height:60});
 			var label = Ti.UI.createLabel( {
 				text:title,
-				left:75,
+				left:45,
 				top:5,
-				height:60,
+				height:30,
 				font:{fontWeight:'bold',fontSize:18},
 				right:5
 			});
 			row.add(label);
 			var deslabel = Ti.UI.createLabel( {
-				text:description,
-				minimumFontSize:12,
-				left:75,
-				top:65,
-				height:30,
+				text:creator,
+				//minimumFontSize:12,
+				color:'#666666',
+				left:45,
+				top:35,
+				height:20,
 				right:5
 			});
 			row.add(deslabel);
-			var dateLabel = Ti.UI.createLabel({
-				text:dateText,
-				//backgroundColor:'#4c6595',
-				backgroundGradient:{
-			        type:'linear',
-			        colors:[{color:'#4c6595',position:0.0},{color:'#213e79',position:1.00}]
-			    },
-				shadowColor:'#243552',
-				shadowOffset:{x:2,y:2},
-				borderColor:"#374f80",
-				borderRadius:5,
-				borderWidth:2,
-				textAlign:'center',
-			    color:'#f3f5f8',
+			var monthLabel = Ti.UI.createLabel({
+				text:monthText,
+			    color:'#aaaaaa',
+				left:5,
+				top:5,
+				height:20,
+				font:{fontSize:14,fontWeight:'bold'},
+				width:40
+			});
+			row.add(monthLabel);
+			var dayLabel = Ti.UI.createLabel({
+				text:dayText,
+			    color:'#aaaaaa',
 				left:5,
 				top:20,
-				height:60,
-				font:{fontSize:14,fontWeight:'bold'},
-				width:60
+				height:35,
+				font:{fontSize:24,fontWeight:'bold'},
+				width:40
 			});
-			row.add(dateLabel);
+			row.add(dayLabel);
 			row.url = item.getElementsByTagName("link").item(0).text;
 			row.titleStr = title;
 			data[x++] = row;

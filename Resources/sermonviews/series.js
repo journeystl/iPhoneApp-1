@@ -19,12 +19,17 @@ xhr.onload = function() {
 			// Grab data from XML
 			var item = items.item(c);
 			var title = item.getElementsByTagName("name").item(0).text;
+			var verses = item.getElementsByTagName("alternative").item(0).text;
 			var dateText = item.getElementsByTagName("date").item(0).text;
 			var dateArray = dateText.split(" ");
 			dateText = "" + dateArray[2] + " " + dateArray[1] + " " + dateArray[3];
+			var monthText = "" + dateArray[2];
+			var dayText = "" + dateArray[1];
+			
 			Ti.API.info('[series.js]   Processing #' + c + " - " + title);
 
 			// Set up display of row
+			/*
 			var row = Ti.UI.createTableViewRow({height:100});
 			var label = Ti.UI.createLabel( {
 				text:title,
@@ -56,6 +61,48 @@ xhr.onload = function() {
 				width:60
 			});
 			row.add(dateLabel);
+			*/
+			var row = Ti.UI.createTableViewRow({height:60});
+			var label = Ti.UI.createLabel( {
+				text:title,
+				left:45,
+				top:5,
+				height:30,
+				font:{fontWeight:'bold',fontSize:18},
+				right:5
+			});
+			row.add(label);
+			
+			var deslabel = Ti.UI.createLabel( {
+				text:verses,
+				//minimumFontSize:12,
+			    color:'#666666',
+				left:45,
+				top:35,
+				height:20,
+				right:5
+			});
+			row.add(deslabel);
+			var monthLabel = Ti.UI.createLabel({
+				text:monthText,
+			    color:'#aaaaaa',
+				left:5,
+				top:5,
+				height:20,
+				font:{fontSize:14,fontWeight:'bold'},
+				width:40
+			});
+			row.add(monthLabel);
+			var dayLabel = Ti.UI.createLabel({
+				text:dayText,
+			    color:'#aaaaaa',
+				left:5,
+				top:20,
+				height:35,
+				font:{fontSize:24,fontWeight:'bold'},
+				width:40
+			});
+			row.add(dayLabel);
 			row.url = item.getElementsByTagName("link").item(0).text;
 			row.titleStr = title;
 			data[x++] = row;

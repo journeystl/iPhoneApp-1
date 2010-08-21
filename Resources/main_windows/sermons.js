@@ -24,7 +24,7 @@ xhr.onload = function() {
 			Ti.API.info('[sermons.js]   Processing #' + c + " - " + title);
 
 			// Set up display of row
-			var row = Ti.UI.createTableViewRow({height:80});
+			var row = Ti.UI.createTableViewRow({height:60});
 			var label = Ti.UI.createLabel( {
 				text:title,
 				left:72,
