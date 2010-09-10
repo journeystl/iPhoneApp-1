@@ -1,4 +1,5 @@
 INSTRUCTIONS:
+	0. Create an empty folder called "build" after git pulling
 	1. Download and install the latest SDK from Titanium and Apple's iPhone SDK
 	2. Open Titanium and click on "Import Project"
 	3. Select option for regular mobile development (not iPad)
