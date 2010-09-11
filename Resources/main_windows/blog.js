@@ -6,7 +6,7 @@ toolActInd.show();
 var data = [];
 
 var xhr = Ti.Network.createHTTPClient();
-xhr.open("GET", "http://journeyon.net/blog/feed/churchapp/rss.xml"); 
+xhr.open("GET", "http://journeyon.net/blog/feed"); 
 xhr.onload = function() {
 	try {
 		Ti.API.info('[blog.js] got rss feed!');
