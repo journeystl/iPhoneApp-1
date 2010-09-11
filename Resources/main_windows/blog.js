@@ -70,6 +70,9 @@ xhr.onload = function() {
 			row.add(dayLabel);
 			row.url = item.getElementsByTagName("link").item(0).text;
 			row.titleStr = title;
+			row.descript = description;
+			row.dateText = dateText;
+			row.creator = creator;
 			data[x++] = row;
 		}
 
@@ -83,16 +86,24 @@ xhr.onload = function() {
 		// Add event listener for selection
 		tableview.addEventListener('click',function(e) {
 			if (e.rowData.url) {
+				// Render html page!
+				var htmlstring = "<html><head></head><body>";
+				htmlstring += "<h2>" + e.rowData.titleStr + "</h2>";
+				htmlstring += "<h3>" + e.rowData.creator + "</h3>";
+				htmlstring += "<h4>" + e.rowData.dateText + "</h4>";				
+				htmlstring += e.rowData.descript;
+				htmlstring += "</body></html>";
+				
+				// Display web page
 				var win = Ti.UI.createWindow({
 					barColor:'#111',
 					title:e.rowData.titleStr,
 				});
-				var webview = Titanium.UI.createWebView({url:e.rowData.url});
+				
+				var webview = Titanium.UI.createWebView({html:htmlstring});
 				win.add(webview);
 
 				Ti.UI.currentTab.open(win, {animated:true});
-				
-				//var window = Titanium.UI.createWindow({title:title});
 			}
 		});
 	} catch(E) {

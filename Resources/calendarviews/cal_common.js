@@ -33,18 +33,67 @@ function grabCal(url) {
 					var item = items.item(c);
 					var title = item.getElementsByTagName("name").item(0).text;
 					var datetime = item.getElementsByTagName("date").item(0).text;
-
+					var alternative = item.getElementsByTagName("alternative").item(0).text
+					var dateArray = datetime.split(" ");
+					dateText = "" + dateArray[2] + " " + dateArray[1] + " " + dateArray[3];
+					var monthText = "" + dateArray[2];
+					var dayText = "" + dateArray[1];
+					/*
 					var titlearr = title.split(" ");
 					var campus = "" + titlearr[0].charAt(0) + titlearr[1].charAt(0);
 					title = titlearr[2];
 					for (var i = 3; i < titlearr.length; i++) {
 						title = title + " " + titlearr[i];
 					}
+					*/
 
 					Ti.API.info('[cal_common.js]   Processing #' + c + " - " + title);
 
 					// Set up display of row
 					var row = Ti.UI.createTableViewRow({height:70});
+					// Set up display of row
+					var row = Ti.UI.createTableViewRow({height:60});
+					var label = Ti.UI.createLabel( {
+						text:title,
+						left:45,
+						top:5,
+						height:30,
+						font:{fontWeight:'bold',fontSize:18},
+						right:5
+					});
+					row.add(label);
+					var deslabel = Ti.UI.createLabel( {
+						text:alternative,
+						//minimumFontSize:12,
+						color:'#666666',
+						left:45,
+						top:35,
+						height:20,
+						right:5
+					});
+					row.add(deslabel);
+					var monthLabel = Ti.UI.createLabel({
+						text:monthText,
+					    color:'#aaaaaa',
+						left:5,
+						top:5,
+						height:20,
+						font:{fontSize:14,fontWeight:'bold'},
+						width:40
+					});
+					row.add(monthLabel);
+					var dayLabel = Ti.UI.createLabel({
+						text:dayText,
+					    color:'#aaaaaa',
+						left:5,
+						top:20,
+						height:35,
+						font:{fontSize:24,fontWeight:'bold'},
+						width:40
+					});
+					row.add(dayLabel);
+					
+					/*
 					var campuslabel = Ti.UI.createLabel({
 						text:campus,
 						//backgroundColor:'#4c6595',
@@ -83,8 +132,9 @@ function grabCal(url) {
 					row.add(label);
 					row.add(campuslabel);
 					row.add(datelabel);
+					*/
 					row.titleStr = title;
-					row.url = item.getElementsByTagName("link").item(0).text;
+					row.url = item.getElementsByTagName("shorturlayl").item(0).text;
 					data[c] = row;
 				}
 
@@ -94,6 +144,7 @@ function grabCal(url) {
 				Ti.UI.currentWindow.add(tableview);
 				// Add event listener for selection
 				tableview.addEventListener('click',function(e) {
+					/*
 					var win = Ti.UI.createWindow({
 						title:e.rowData.titleStr,
 						barColor:'#111',
@@ -101,7 +152,14 @@ function grabCal(url) {
 					});
 					newXMLlink = e.rowData.url;
 					win.newXMLlink = newXMLlink;
-
+					*/
+						var win = Ti.UI.createWindow({
+							title:e.rowData.titleStr,
+							barColor:'#111'
+							//url:'singleevent.js'
+						});
+					var webview = Titanium.UI.createWebView({url:e.rowData.url});
+					win.add(webview);
 					Ti.UI.currentTab.open(win, {animated:true});
 				});
 			}
