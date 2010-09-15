@@ -40,13 +40,13 @@ function grabVersesForDay(offset) {
 		Ti.API.info('[engage.js] verses are: '+ versesarr[i]);
 
 		if (versesarr[i] == "off") {
-			verseviews[i] = "<html><head><LINK REL=StyleSheet HREF=\"http://www.gnpcb.org/esv/assets/style/text.css\" TYPE=\"text/css\" MEDIA=screen><STYLE TYPE=\"text/css\" MEDIA=screen><!-- body{ bgcolor=\"#444\"; font: 100%/1.5  \"Lucida Grande\", \"Trebuchet MS\", Tahoma, Verdana, sans-serif; } --> </STYLE></head><body><h2>Take a break!</h2></body></html>";
+			verseviews[i] = "<html><head><LINK REL=StyleSheet HREF=\"http://www.gnpcb.org/esv/assets/style/text.css\" TYPE=\"text/css\" MEDIA=screen><STYLE TYPE=\"text/css\" MEDIA=screen><!-- body{ bgcolor=\"#444\"; font: 100%/1.5  \serif; } --> </STYLE></head><body><h2>Take a break!</h2></body></html>";
 			countxhr++;
 		} else {
 			xhrarr[i] = Titanium.Network.createHTTPClient();
 			xhrarr[i].onload = function() {
 				var doc = this.responseText;
-				doc = "<html><head><LINK REL=StyleSheet HREF=\"http://www.gnpcb.org/esv/assets/style/text.css\" TYPE=\"text/css\" MEDIA=screen><STYLE TYPE=\"text/css\" MEDIA=screen><!-- body{ bgcolor=\"#444\"; font: 100%/1.5  \"Lucida Grande\", \"Trebuchet MS\", Tahoma, Verdana, sans-serif; } --> </STYLE></head><body>" + doc + "</body></html>";
+				doc = "<html><head><LINK REL=StyleSheet HREF=\"http://www.gnpcb.org/esv/assets/style/text.css\" TYPE=\"text/css\" MEDIA=screen><STYLE TYPE=\"text/css\" MEDIA=screen><!-- body{ bgcolor=\"#444\"; font: 100%/1.5  \serif; } --> </STYLE></head><body>" + doc + "</body></html>";
 				verseviews[this.verseindex] = doc;
 				Ti.API.info('[engage.js] countxhr: '+countxhr + "i: " + this.verseindex);
 				countxhr++;

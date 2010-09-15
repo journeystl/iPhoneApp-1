@@ -87,10 +87,9 @@ xhr.onload = function() {
 		tableview.addEventListener('click',function(e) {
 			if (e.rowData.url) {
 				// Render html page!
-				var htmlstring = "<html><head></head><body>";
+				var htmlstring = "<html><head></head><body style='font-family:Sans-serif; '>";
 				htmlstring += "<h2>" + e.rowData.titleStr + "</h2>";
-				htmlstring += "<h3>" + e.rowData.creator + "</h3>";
-				htmlstring += "<h4>" + e.rowData.dateText + "</h4>";				
+				htmlstring += "<table style='background:#D6D6D6; width:100%; '><tbody><tr>" + "<td style='text-align:left; font-size:small; '>" + e.rowData.creator + "</td>" + "<td style='text-align:right; font-size:x-small; font-variant:small-caps; '>" + e.rowData.dateText + "</td>" + "</tr></tbody></table>"; 
 				htmlstring += e.rowData.descript;
 				htmlstring += "</body></html>";
 				
